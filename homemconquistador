@@ -772,7 +772,7 @@ h1
 	{mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Título 1 Char";
+	mso-style-link:"Tï¿½tulo 1 Char";
 	mso-style-next:Normal;
 	margin-top:24.0pt;
 	margin-right:0cm;
@@ -813,7 +813,7 @@ p.MsoToc1, li.MsoToc1, div.MsoToc1
 	mso-fareast-language:EN-US;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-priority:99;
-	mso-style-link:"Cabeçalho Char";
+	mso-style-link:"Cabeï¿½alho Char";
 	margin:0cm;
 	text-align:justify;
 	mso-pagination:widow-orphan;
@@ -827,7 +827,7 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	mso-fareast-language:X-NONE;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
 	{mso-style-priority:99;
-	mso-style-link:"Rodapé Char";
+	mso-style-link:"Rodapï¿½ Char";
 	margin:0cm;
 	text-align:justify;
 	mso-pagination:widow-orphan;
@@ -843,7 +843,7 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Título Char";
+	mso-style-link:"Tï¿½tulo Char";
 	mso-style-next:Normal;
 	margin-top:0cm;
 	margin-right:0cm;
@@ -876,7 +876,7 @@ p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Título Char";
+	mso-style-link:"Tï¿½tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin:0cm;
@@ -907,7 +907,7 @@ p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Título Char";
+	mso-style-link:"Tï¿½tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin:0cm;
@@ -938,7 +938,7 @@ p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
 	{mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
-	mso-style-link:"Título Char";
+	mso-style-link:"Tï¿½tulo Char";
 	mso-style-next:Normal;
 	mso-style-type:export-only;
 	margin-top:0cm;
@@ -1073,11 +1073,11 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 span.Ttulo1Char
-	{mso-style-name:"Título 1 Char";
+	{mso-style-name:"Tï¿½tulo 1 Char";
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:"Título 1";
+	mso-style-link:"Tï¿½tulo 1";
 	mso-ansi-font-size:36.0pt;
 	mso-bidi-font-size:36.0pt;
 	font-family:"Calibri",sans-serif;
@@ -1092,11 +1092,11 @@ span.Ttulo1Char
 	mso-fareast-language:X-NONE;
 	font-weight:bold;}
 span.CabealhoChar
-	{mso-style-name:"Cabeçalho Char";
+	{mso-style-name:"Cabeï¿½alho Char";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:Cabeçalho;
+	mso-style-link:Cabeï¿½alho;
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Helvetica",sans-serif;
@@ -1107,11 +1107,11 @@ span.CabealhoChar
 	mso-ansi-language:X-NONE;
 	mso-fareast-language:X-NONE;}
 span.RodapChar
-	{mso-style-name:"Rodapé Char";
+	{mso-style-name:"Rodapï¿½ Char";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:Rodapé;
+	mso-style-link:Rodapï¿½;
 	mso-ansi-font-size:13.0pt;
 	mso-bidi-font-size:10.0pt;
 	font-family:"Helvetica",sans-serif;
@@ -1175,11 +1175,11 @@ span.CorpodetextoChar
 	mso-fareast-language:PT;
 	mso-bidi-language:PT;}
 span.TtuloChar
-	{mso-style-name:"Título Char";
+	{mso-style-name:"Tï¿½tulo Char";
 	mso-style-priority:10;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:Título;
+	mso-style-link:Tï¿½tulo;
 	mso-ansi-font-size:26.0pt;
 	mso-bidi-font-size:26.0pt;
 	font-family:"Calibri Light",sans-serif;
@@ -1377,7 +1377,7 @@ none'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Imagem_x0020_4" o:spid="_x0000_s2051" type="#_x0000_t75"
- alt="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descrição gerada automaticamente"
+ alt="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descriï¿½ï¿½o gerada automaticamente"
  style='position:absolute;margin-left:-5.55pt;margin-top:10.8pt;width:598.5pt;
  height:733.5pt;z-index:251659776;visibility:visible;mso-wrap-style:square;
  mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
@@ -1387,13 +1387,13 @@ none'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:page;mso-height-relative:page'>
  <v:imagedata src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image001.png"
-  o:title="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descrição gerada automaticamente"/>
+  o:title="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descriï¿½ï¿½o gerada automaticamente"/>
  <w:wrap anchorx="page"/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
 relative;z-index:251659776;left:-2px;top:28px;width:998px;height:1250px'><img
 width=798 height=978
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image002.png"
-alt="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descrição gerada automaticamente"
+alt="Uma imagem contendo texto, mesa, mulher, bolo&#10;&#10;Descriï¿½ï¿½o gerada automaticamente"
 v:shapes="Imagem_x0020_4"></span><![endif]><span style='mso-bookmark:_Hlk35684286'></span><span
 style='mso-bookmark:_Hlk35684286'><b><span style='font-size:20.0pt;font-family:
 "Cambria",serif;mso-font-width:105%;mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></b></span></p>
@@ -1463,7 +1463,7 @@ lang=X-NONE style='font-family:"Cambria",serif;color:#F53DE8'><o:p>&nbsp;</o:p><
 <br style='mso-ignore:vglayout' clear=ALL>
 
 <h1 align=center style='text-align:center'><span style='mso-bookmark:_Toc27085613'><span
-lang=X-NONE style='font-family:"Cambria",serif;color:#F53DE8'>Índice</span></span><span
+lang=X-NONE style='font-family:"Cambria",serif;color:#F53DE8'>ï¿½ndice</span></span><span
 lang=X-NONE style='font-family:"Cambria",serif;color:#F53DE8'><o:p></o:p></span></h1>
 
 <h1 align=center style='text-align:center'><span lang=X-NONE style='font-size:
@@ -1471,14 +1471,14 @@ lang=X-NONE style='font-family:"Cambria",serif;color:#F53DE8'><o:p></o:p></span>
 </span><!--[if supportFields]><span lang=X-NONE style='font-size:16.0pt;
 font-family:"Cambria",serif;color:black;mso-themecolor:text1'><span
 style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; <span style='mso-element:
+style='mso-spacerun:yes'>ï¿½</span>TOC \o &quot;1-3&quot; <span style='mso-element:
 field-separator'></span></span><![endif]--><span lang=X-NONE style='font-size:
 16.0pt;font-family:"Cambria",serif;color:black;mso-themecolor:text1'><span
 style='mso-no-proof:yes'><o:p></o:p></span></span></h1>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>Índice<span style='mso-tab-count:1 dotted'>.................................................................................................... </span></span><!--[if supportFields]><span
+mso-no-proof:yes'>ï¿½ndice<span style='mso-tab-count:1 dotted'>.................................................................................................... </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
 field-begin'></span></span><span style='font-size:16.0pt;line-height:200%;
@@ -1503,7 +1503,7 @@ PT-BR;mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>Introdução<span style='mso-tab-count:1 dotted'>........................................................................................... </span></span><!--[if supportFields]><span
+mso-no-proof:yes'>Introduï¿½ï¿½o<span style='mso-tab-count:1 dotted'>........................................................................................... </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
 field-begin'></span></span><span style='font-size:16.0pt;line-height:200%;
@@ -1528,7 +1528,7 @@ PT-BR;mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>A Arte da Interação<span style='mso-tab-count:1 dotted'>........................................................................... </span></span><!--[if supportFields]><span
+mso-no-proof:yes'>A Arte da Interaï¿½ï¿½o<span style='mso-tab-count:1 dotted'>........................................................................... </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
 field-begin'></span></span><span style='font-size:16.0pt;line-height:200%;
@@ -1578,7 +1578,7 @@ PT-BR;mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>Ideias Ótimas para um Encontro<span style='mso-tab-count:
+mso-no-proof:yes'>Ideias ï¿½timas para um Encontro<span style='mso-tab-count:
 1 dotted'>................................................ </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
@@ -1604,7 +1604,7 @@ PT-BR;mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>A Arte da Sedução<span style='mso-tab-count:1 dotted'>........................................................................... </span></span><!--[if supportFields]><span
+mso-no-proof:yes'>A Arte da Seduï¿½ï¿½o<span style='mso-tab-count:1 dotted'>........................................................................... </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
 field-begin'></span></span><span style='font-size:16.0pt;line-height:200%;
@@ -1629,7 +1629,7 @@ PT-BR;mso-fareast-language:PT-BR;mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoToc1><span style='font-size:16.0pt;line-height:200%;font-family:
 "Cambria",serif;color:black;mso-themecolor:text1;mso-ansi-language:PT-BR;
-mso-no-proof:yes'>Considerações Finais<span style='mso-tab-count:1 dotted'>...................................................................... </span></span><!--[if supportFields]><span
+mso-no-proof:yes'>Consideraï¿½ï¿½es Finais<span style='mso-tab-count:1 dotted'>...................................................................... </span></span><!--[if supportFields]><span
 lang=EN-US style='font-size:16.0pt;line-height:200%;font-family:"Cambria",serif;
 color:black;mso-themecolor:text1;mso-no-proof:yes'><span style='mso-element:
 field-begin'></span></span><span style='font-size:16.0pt;line-height:200%;
@@ -1685,7 +1685,7 @@ style='mso-bookmark:_Toc531281217'></span><span style='mso-bookmark:_Toc53133762
 style='mso-bookmark:_Toc534026038'></span><span style='mso-bookmark:_Toc534040124'></span><span
 style='mso-bookmark:_Toc10215935'></span><span style='mso-bookmark:_Toc20830829'></span><span
 style='mso-bookmark:_Toc20831951'></span><span style='mso-bookmark:_Toc27085614'><span
-style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'>ção</span></span><span
+style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'>ï¿½ï¿½o</span></span><span
 style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'><o:p></o:p></span></h1>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
@@ -2076,17 +2076,17 @@ X-NONE'><o:p>&nbsp;</o:p></span></p>
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Quer se
 dar bem no jogo da conquista e aprender a atrair o tipo certo de mulher?</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'> Interessado em dominar a arte da sedução e aprender a
-ter uma conversa interessante, deixando uma impressão positiva?<br>
+mso-ansi-language:PT-BR'> Interessado em dominar a arte da seduï¿½ï¿½o e aprender a
+ter uma conversa interessante, deixando uma impressï¿½o positiva?<br>
 <br>
-Esteja você a fim de alguém ou apenas se aventurando no mundo da conquista, <b>existem
+Esteja vocï¿½ a fim de alguï¿½m ou apenas se aventurando no mundo da conquista, <b>existem
 maneiras comprovadas de maximizar suas chances de encontrar o amor.</b><br>
 <br>
-Este relatório especial é dedicado exclusivamente a isso: a ajudar você a
-evitar encontros malsucedidos, para que você consiga encontrar alguém que
-realmente combine com você.<br>
+Este relatï¿½rio especial ï¿½ dedicado exclusivamente a isso: a ajudar vocï¿½ a
+evitar encontros malsucedidos, para que vocï¿½ consiga encontrar alguï¿½m que
+realmente combine com vocï¿½.<br>
 <br>
-<b><i>Portanto, sem mais delongas, vamos começar!</i></b><o:p></o:p></span></p>
+<b><i>Portanto, sem mais delongas, vamos comeï¿½ar!</i></b><o:p></o:p></span></p>
 
 <span style='font-size:16.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
 "MS Mincho";mso-bidi-font-family:"Times New Roman";mso-ansi-language:PT-BR;
@@ -2096,7 +2096,7 @@ style='page-break-before:always'>
 
 <p class=MsoNormal align=center style='text-align:center'><a name="_Toc27085615"><b><span
 style='font-size:36.0pt;font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:
-PT-BR'>A Arte da Interação</span></b></a><span style='mso-bookmark:_Toc27085615'></span><b><span
+PT-BR'>A Arte da Interaï¿½ï¿½o</span></b></a><span style='mso-bookmark:_Toc27085615'></span><b><span
 style='font-size:16.0pt;font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:
 PT-BR'><o:p></o:p></span></b></p>
 
@@ -5142,17 +5142,17 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-PT-BR;mso-fareast-language:X-NONE'>É fácil se empolgar ao conhecer alguém</span></b><span
+PT-BR;mso-fareast-language:X-NONE'>ï¿½ fï¿½cil se empolgar ao conhecer alguï¿½m</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
 PT-BR;mso-fareast-language:X-NONE'> que acreditamos ser um parceiro em
 potencial e querer contar <i>tudo </i>para aquela pessoa.<br>
 <br>
-Então, acabamos compartilhando mais do que o necessário... e depois, o que
+Entï¿½o, acabamos compartilhando mais do que o necessï¿½rio... e depois, o que
 acontece?<br>
 <br>
-Ela fica ali parada, ouvindo você falar incessantemente sobre si mesmo e,
-embora você ache que está simplesmente se abrindo <o:p></o:p></span></p>
+Ela fica ali parada, ouvindo vocï¿½ falar incessantemente sobre si mesmo e,
+embora vocï¿½ ache que estï¿½ simplesmente se abrindo <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5162,13 +5162,13 @@ PT-BR;mso-fareast-language:X-NONE'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
-PT-BR;mso-fareast-language:X-NONE'>com ela e fazendo o possível para interagir,
-ela na verdade está entediada, irritada ou os dois.<br>
+PT-BR;mso-fareast-language:X-NONE'>com ela e fazendo o possï¿½vel para interagir,
+ela na verdade estï¿½ entediada, irritada ou os dois.<br>
 <br>
 </span><span style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Todos nós já fizemos isso, portanto não se sinta mal
-caso você se identifique com essa situação. Às vezes, conseguimos perceber isso
-rápido o suficiente e revertemos esse cenário a fim de minimizar os danos,
+mso-ansi-language:PT-BR'>Todos nï¿½s jï¿½ fizemos isso, portanto nï¿½o se sinta mal
+caso vocï¿½ se identifique com essa situaï¿½ï¿½o. ï¿½s vezes, conseguimos perceber isso
+rï¿½pido o suficiente e revertemos esse cenï¿½rio a fim de minimizar os danos,
 dando a palavra a ela e demonstrando que estamos realmente interessados no que
 ela tem a dizer. <o:p></o:p></span></p>
 
@@ -5178,9 +5178,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Em outras ocasiões, não conseguimos perceber que
+mso-ansi-language:PT-BR'>Em outras ocasiï¿½es, nï¿½o conseguimos perceber que
 estamos monopolizando conversa e o encontro termina com poucas chances de que
-ela o procure novamente. É como uma entrevista de emprego. Se você der mole, já
+ela o procure novamente. ï¿½ como uma entrevista de emprego. Se vocï¿½ der mole, jï¿½
 era.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
@@ -5189,11 +5189,11 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-color:red;mso-ansi-language:PT-BR'>Aprender a se comunicar dá trabalho.</span></b><span
+color:red;mso-ansi-language:PT-BR'>Aprender a se comunicar dï¿½ trabalho.</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 color:red;mso-ansi-language:PT-BR'> </span><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Não é
-algo natural para todos nós. <o:p></o:p></span></p>
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Nï¿½o ï¿½
+algo natural para todos nï¿½s. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5209,9 +5209,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Claro, nós sabemos fazer as perguntas certas e
-certamente sabemos falar sobre nós mesmos, mas ter uma conversa profunda que
-deixe as duas pessoas envolvidas não é tão fácil quanto parece. <o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Claro, nï¿½s sabemos fazer as perguntas certas e
+certamente sabemos falar sobre nï¿½s mesmos, mas ter uma conversa profunda que
+deixe as duas pessoas envolvidas nï¿½o ï¿½ tï¿½o fï¿½cil quanto parece. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5219,16 +5219,16 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><i
 style='mso-bidi-font-style:normal'><span style='font-size:22.0pt;line-height:
-150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>A chave é ouvir tanto
+150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>A chave ï¿½ ouvir tanto
 quanto falamos.</span></i></b><i style='mso-bidi-font-style:normal'><span
 style='font-size:22.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'> </span></i><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><br>
 <br>
-Sim, eu sei. Você provavelmente já ouviu que deve apenas escutar, mas a verdade
-é que, para que uma conversa seja boa, ambos precisam se esforçar igualmente. É
-uma troca, um ‘toma-lá-dá-cá’ troca, em que ambos estão realmente interessados
-em se conhecer. Nunca é algo unilateral.<o:p></o:p></span></p>
+Sim, eu sei. Vocï¿½ provavelmente jï¿½ ouviu que deve apenas escutar, mas a verdade
+ï¿½ que, para que uma conversa seja boa, ambos precisam se esforï¿½ar igualmente. ï¿½
+uma troca, um ï¿½toma-lï¿½-dï¿½-cï¿½ troca, em que ambos estï¿½o realmente interessados
+em se conhecer. Nunca ï¿½ algo unilateral.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5236,9 +5236,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Você deve compartilhar a atenção para que ela sinta
-que você está realmente interessado em tudo o que ela tem a dizer, em vez de
-fazer uma série de perguntas superficiais. <o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Vocï¿½ deve compartilhar a atenï¿½ï¿½o para que ela sinta
+que vocï¿½ estï¿½ realmente interessado em tudo o que ela tem a dizer, em vez de
+fazer uma sï¿½rie de perguntas superficiais. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5254,19 +5254,19 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-color:red;mso-ansi-language:PT-BR'>Porque não há nada que desanime mais uma
+color:red;mso-ansi-language:PT-BR'>Porque nï¿½o hï¿½ nada que desanime mais uma
 mulher do que um homem desengajado</span></b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>, que se
-limita a diálogos narcisistas.<o:p></o:p></span></p>
+limita a diï¿½logos narcisistas.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br>
-Deixar uma boa impressão que faça com que ela pense em você depois do encontro
+Deixar uma boa impressï¿½o que faï¿½a com que ela pense em vocï¿½ depois do encontro
 requer autenticidade e simpatia. E acredite, qualquer homem pode aprender essas
 habilidades.<br>
 <br>
-<b><i>Aqui estão algumas dicas que vão ajudar você a dominar a arte da
+<b><i>Aqui estï¿½o algumas dicas que vï¿½o ajudar vocï¿½ a dominar a arte da
 conversa, fazendo com que ela queira mais:</i></b><i><br style='mso-special-character:
 line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
@@ -5275,15 +5275,15 @@ line-break'>
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Evite Perguntas Chatas e Previsíveis</span></b><b
+mso-ansi-language:PT-BR'>Evite Perguntas Chatas e Previsï¿½veis</span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Perguntar &quot;o que você gosta de fazer?&quot; além
-de não ser nada criativo, é sem graça. Esse tipo de pergunta não gera atração
-nem engajamento. São perguntas previsíveis - parece até que foram roteirizadas.<br
+mso-ansi-language:PT-BR'>Perguntar &quot;o que vocï¿½ gosta de fazer?&quot; alï¿½m
+de nï¿½o ser nada criativo, ï¿½ sem graï¿½a. Esse tipo de pergunta nï¿½o gera atraï¿½ï¿½o
+nem engajamento. Sï¿½o perguntas previsï¿½veis - parece atï¿½ que foram roteirizadas.<br
 style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
@@ -5298,11 +5298,11 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Claro, você pode usar essas perguntas tradicionais
+mso-ansi-language:PT-BR'>Claro, vocï¿½ pode usar essas perguntas tradicionais
 como ponto de partida, mas elas precisam ser ajustadas e transformadas em
-perguntas mais profundas e envolventes. Essas perguntas iniciais previsíveis
-dão a você a oportunidade de ir mais a fundo, a fim de que as perguntas
-seguintes sejam mais instigantes permitindo que você continue pressionando.<o:p></o:p></span></p>
+perguntas mais profundas e envolventes. Essas perguntas iniciais previsï¿½veis
+dï¿½o a vocï¿½ a oportunidade de ir mais a fundo, a fim de que as perguntas
+seguintes sejam mais instigantes permitindo que vocï¿½ continue pressionando.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5310,16 +5310,16 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Lembre-se sempre: você não quer que ela sinta como se
-você a estivesse interrogando. Entre no ritmo dela. Faça ajustes e adaptações
-para que a conversa seja confortável para ela – não cometa o erro de seguir uma
-estratégia invariável.<br>
+mso-ansi-language:PT-BR'>Lembre-se sempre: vocï¿½ nï¿½o quer que ela sinta como se
+vocï¿½ a estivesse interrogando. Entre no ritmo dela. Faï¿½a ajustes e adaptaï¿½ï¿½es
+para que a conversa seja confortï¿½vel para ela ï¿½ nï¿½o cometa o erro de seguir uma
+estratï¿½gia invariï¿½vel.<br>
 <br>
 <b style='mso-bidi-font-weight:normal'><u>Exemplo:</u></b><span
-style='mso-spacerun:yes'>  </span>Uma pergunta padrão seria “onde você
-cresceu?” e, em seguida, uma pergunta complementar muito mais instigante
-poderia ser: “você ainda se sente em casa quando vai lá?” ou “qual era a melhor
-parte de morar lá, em sua opinião?”. <o:p></o:p></span></p>
+style='mso-spacerun:yes'>ï¿½ </span>Uma pergunta padrï¿½o seria ï¿½onde vocï¿½
+cresceu?ï¿½ e, em seguida, uma pergunta complementar muito mais instigante
+poderia ser: ï¿½vocï¿½ ainda se sente em casa quando vai lï¿½?ï¿½ ou ï¿½qual era a melhor
+parte de morar lï¿½, em sua opiniï¿½o?ï¿½. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
@@ -5336,7 +5336,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Faça Elogios</span></b><span style='font-size:16.0pt;
+mso-ansi-language:PT-BR'>Faï¿½a Elogios</span></b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><!--[if gte vml 1]><v:shape
@@ -5357,20 +5357,20 @@ src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image008.png" align=left
 hspace=12 alt="Boy Cartoon clipart - Love, Boy, Yellow, transparent clip art"
 v:shapes="Imagem_x0020_8"><![endif]><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><br>
-Não dê ouvidos a quem diz que fazer elogios é ridículo ou cafona. Se o elogio
-for genuíno, verdadeiro ela se sentirá bem, além de fazer com que ela baixe a
-guarda e se sinta confortável.<br>
+Nï¿½o dï¿½ ouvidos a quem diz que fazer elogios ï¿½ ridï¿½culo ou cafona. Se o elogio
+for genuï¿½no, verdadeiro ela se sentirï¿½ bem, alï¿½m de fazer com que ela baixe a
+guarda e se sinta confortï¿½vel.<br>
 <br style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Evite, obviamente, qualquer conotação sexual. Você
-deve elogiá-la de uma maneira que não a sexualize de forma alguma,
+mso-ansi-language:PT-BR'>Evite, obviamente, qualquer conotaï¿½ï¿½o sexual. Vocï¿½
+deve elogiï¿½-la de uma maneira que nï¿½o a sexualize de forma alguma,
 principalmente no primeiro encontro. Deixe os elogios mais quentes e
-provocantes para depois. Por enquanto, mostre a ela que você está prestando
-atenção, elogiando-a de modo a deixá-la mais solta e querendo mais.<o:p></o:p></span></p>
+provocantes para depois. Por enquanto, mostre a ela que vocï¿½ estï¿½ prestando
+atenï¿½ï¿½o, elogiando-a de modo a deixï¿½-la mais solta e querendo mais.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5386,7 +5386,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Vá Preparado</span></b><b style='mso-bidi-font-weight:
+mso-ansi-language:PT-BR'>Vï¿½ Preparado</span></b><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'> <o:p></o:p></span></b></p>
 
@@ -5406,11 +5406,11 @@ mso-ansi-language:PT-BR'><br style='mso-special-character:line-break'>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Antes do seu próximo encontro, pense nas perguntas que
-você poderia fazer.</span></b><span style='font-size:16.0pt;line-height:150%;
-font-family:"Cambria",serif;mso-ansi-language:PT-BR'> Pense em histórias que
-você pode compartilhar e pense em temas pelos quais ela provavelmente se
-interessa. Mesmo que você não saiba muito sobre ela, existem tópicos-chave que
+mso-ansi-language:PT-BR'>Antes do seu prï¿½ximo encontro, pense nas perguntas que
+vocï¿½ poderia fazer.</span></b><span style='font-size:16.0pt;line-height:150%;
+font-family:"Cambria",serif;mso-ansi-language:PT-BR'> Pense em histï¿½rias que
+vocï¿½ pode compartilhar e pense em temas pelos quais ela provavelmente se
+interessa. Mesmo que vocï¿½ nï¿½o saiba muito sobre ela, existem tï¿½picos-chave que
 atraem o interesse de quase todo mundo.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
@@ -5422,8 +5422,8 @@ style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 color:red;mso-ansi-language:PT-BR'>Evite apenas assuntos obviamente delicados:</span></b><span
 style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 color:red;mso-ansi-language:PT-BR'> </span><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>salário,
-sexo, política e religião.<o:p></o:p></span></p>
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>salï¿½rio,
+sexo, polï¿½tica e religiï¿½o.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5460,10 +5460,10 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Todos nós gostamos de conversar fiado – acabamos indo
-pelo caminho das conversas superficiais e das discussões que não trazem nenhuma
-profundidade. É fácil perguntar se ela gosta do emprego, certo? <b><span
-style='color:red'>Essa é uma das perguntas previsíveis que você deve evitar.<o:p></o:p></span></b></span></p>
+mso-ansi-language:PT-BR'>Todos nï¿½s gostamos de conversar fiado ï¿½ acabamos indo
+pelo caminho das conversas superficiais e das discussï¿½es que nï¿½o trazem nenhuma
+profundidade. ï¿½ fï¿½cil perguntar se ela gosta do emprego, certo? <b><span
+style='color:red'>Essa ï¿½ uma das perguntas previsï¿½veis que vocï¿½ deve evitar.<o:p></o:p></span></b></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5471,14 +5471,14 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Em vez disso, pergunte quais são os maiores desafios
-na carreira dela ou que mudanças ela acha que acontecerão em sua profissão.<o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Em vez disso, pergunte quais sï¿½o os maiores desafios
+na carreira dela ou que mudanï¿½as ela acha que acontecerï¿½o em sua profissï¿½o.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br>
-<b>Aprofunde-se, mas vá com calma.</b> Não force a barra caso sinta que ela não
-está confortável em falar mais a fundo sobre determinados assuntos. <o:p></o:p></span></p>
+<b>Aprofunde-se, mas vï¿½ com calma.</b> Nï¿½o force a barra caso sinta que ela nï¿½o
+estï¿½ confortï¿½vel em falar mais a fundo sobre determinados assuntos. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -5486,9 +5486,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Por outro lado, ao envolvê-la em uma conversa que vai
-além das formalidades casuais, você demonstrará um interesse real em saber quem
-ela <i>realmente</i> é e o que a motiva.<o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Por outro lado, ao envolvï¿½-la em uma conversa que vai
+alï¿½m das formalidades casuais, vocï¿½ demonstrarï¿½ um interesse real em saber quem
+ela <i>realmente</i> ï¿½ e o que a motiva.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
@@ -5497,7 +5497,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;line-height:
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Não <span class=GramE>se Precipite</span></span></b><b
+mso-ansi-language:PT-BR'>Nï¿½o <span class=GramE>se Precipite</span></span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> <o:p></o:p></span></b></p>
 
@@ -5517,7 +5517,7 @@ mso-ansi-language:PT-BR'><br style='mso-special-character:line-break'>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Perguntas e respostas bem elaboradas farão você marcar
+mso-ansi-language:PT-BR'>Perguntas e respostas bem elaboradas farï¿½o vocï¿½ marcar
 pontos, tenha calma e pense antes de falar. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><span
@@ -5527,10 +5527,10 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='line-height:150%;tab-stops:dotted 432.0pt'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'>A maioria dos momentos constrangedores acontecem
-porque às vezes respondemos sem pensar.</span></b><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> Você
+porque ï¿½s vezes respondemos sem pensar.</span></b><span style='font-size:16.0pt;
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> Vocï¿½
 pode evitar isso facilmente, fazendo uma pausa breve a fim de organizar seus
-pensamentos e dar a ela respostas genuínas, sem que você se arrependa depois. <o:p></o:p></span></p>
+pensamentos e dar a ela respostas genuï¿½nas, sem que vocï¿½ se arrependa depois. <o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%;
 tab-stops:dotted 432.0pt'><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -12754,7 +12754,7 @@ class=GramE><b><i style='mso-bidi-font-style:normal'><span style='font-size:
 16.0pt;line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Caras
 bonzinhos</span></i></b></span></span><span style='mso-bookmark:_Toc534026041'><b><i
 style='mso-bidi-font-style:normal'><span style='font-size:16.0pt;line-height:
-150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> realmente se dão
+150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> realmente se dï¿½o
 mal?</span></i></b></span><span style='mso-bookmark:_Toc534026041'><i
 style='mso-bidi-font-style:normal'><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'> </span></i></span><span
@@ -12773,11 +12773,11 @@ mso-ansi-language:PT-BR'><br>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>O que começa como um relacionamento promissor, em que
-você investe tempo e energia para conhecê-la melhor, pode virar repentinamente
-um clima estranho, esquisito e <i>confortável até demais</i>, em que ela para
-de ver você com um possível interesse amoroso e passa a ver você como um amigo
-bom e confiável.<o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'>O que comeï¿½a como um relacionamento promissor, em que
+vocï¿½ investe tempo e energia para conhecï¿½-la melhor, pode virar repentinamente
+um clima estranho, esquisito e <i>confortï¿½vel atï¿½ demais</i>, em que ela para
+de ver vocï¿½ com um possï¿½vel interesse amoroso e passa a ver vocï¿½ como um amigo
+bom e confiï¿½vel.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12785,9 +12785,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Se você já passou por isso, você sabe como é difícil
-mudar essa condição e voltar à categoria de parceiro romântico depois que ela
-começa a vê-lo como amigo. <o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'>Se vocï¿½ jï¿½ passou por isso, vocï¿½ sabe como ï¿½ difï¿½cil
+mudar essa condiï¿½ï¿½o e voltar ï¿½ categoria de parceiro romï¿½ntico depois que ela
+comeï¿½a a vï¿½-lo como amigo. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12795,8 +12795,8 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Portanto, obviamente, você precisa se armar com as
-ferramentas necessárias para garantir que nunca seja colocado na zona de
+mso-ansi-language:PT-BR'>Portanto, obviamente, vocï¿½ precisa se armar com as
+ferramentas necessï¿½rias para garantir que nunca seja colocado na zona de
 amizade. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
@@ -12805,7 +12805,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Veja como começar:<br>
+mso-ansi-language:PT-BR'>Veja como comeï¿½ar:<br>
 </span></span><span style='mso-bookmark:_Toc534026041'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br style='mso-special-character:line-break'>
@@ -12820,7 +12820,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></b></span></p>
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Pare de Simplesmente Marcar Saídas e Comece a Marcar
+mso-ansi-language:PT-BR'>Pare de Simplesmente Marcar Saï¿½das e Comece a Marcar
 Encontros</span></b></span><span style='mso-bookmark:_Toc534026041'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></b></span></p>
@@ -12839,17 +12839,17 @@ style='mso-bookmark:_Toc534026041'><span style='font-size:16.0pt;line-height:
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>A verdade é que nem sempre você tem controle sobre o
-fato de ser colocado ou não na zona de amizade, no entanto, existe algo que
-você pode fazer para que suas chances de que isso aconteça sejam
+mso-ansi-language:PT-BR'>A verdade ï¿½ que nem sempre vocï¿½ tem controle sobre o
+fato de ser colocado ou nï¿½o na zona de amizade, no entanto, existe algo que
+vocï¿½ pode fazer para que suas chances de que isso aconteï¿½a sejam
 significativamente minimizadas.<br>
 <br>
-Isso exige que você pare de &quot;sair&quot; com as mulheres de seu interesse e
+Isso exige que vocï¿½ pare de &quot;sair&quot; com as mulheres de seu interesse e
 comece a marcar encontros com elas.<br>
 <br>
 <b>Ir a encontros significa que as duas pessoas possuem um potencial interesse
-amoroso.</b> Significa que vocês estão temporariamente comprometidos a se
-conhecer melhor a fim de determinar se vocês são romanticamente compatíveis. <o:p></o:p></span></span></p>
+amoroso.</b> Significa que vocï¿½s estï¿½o temporariamente comprometidos a se
+conhecer melhor a fim de determinar se vocï¿½s sï¿½o romanticamente compatï¿½veis. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12857,16 +12857,16 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Mas há uma linha tênue entre ir a encontros e
-simplesmente sair com a pessoa, e você precisa ter muito cuidado para não cair
-na categoria errada, caso contrário, provavelmente será colocado na zona de
+mso-ansi-language:PT-BR'>Mas hï¿½ uma linha tï¿½nue entre ir a encontros e
+simplesmente sair com a pessoa, e vocï¿½ precisa ter muito cuidado para nï¿½o cair
+na categoria errada, caso contrï¿½rio, provavelmente serï¿½ colocado na zona de
 amizade. E a zona de amizade significa falta de interesse sexual.<br>
 <br>
 <b style='mso-bidi-font-weight:normal'>Encontros = Caminho para o romance.<br>
-Saídas aleatórias = Caminho para se tornar amigos.</b><br>
+Saï¿½das aleatï¿½rias = Caminho para se tornar amigos.</b><br>
 <br>
-Isso significa que todo encontro deve ter um propósito. Por exemplo, você vai
-levá-la para um jogo de hóquei apenas porque ambos compartilham um interesse mútuo
+Isso significa que todo encontro deve ter um propï¿½sito. Por exemplo, vocï¿½ vai
+levï¿½-la para um jogo de hï¿½quei apenas porque ambos compartilham um interesse mï¿½tuo
 em assistir ao esporte.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
@@ -12875,20 +12875,20 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Claro, o interesse comum é ótimo, mas ele deve ser
-apenas a <b>base </b>do encontro (o cenário), não o <b>objetivo</b> (encontrar
+mso-ansi-language:PT-BR'>Claro, o interesse comum ï¿½ ï¿½timo, mas ele deve ser
+apenas a <b>base </b>do encontro (o cenï¿½rio), nï¿½o o <b>objetivo</b> (encontrar
 o amor).<br>
 <br>
-<b>O objetivo é passar um tempo juntos como um casal em potencial.</b> É ver
-como vocês interagem e se envolvem, como se sentem passando algumas horas
-juntos em diferentes cenários e situações. Trata-se de testar a energia de
-vocês. <o:p></o:p></span></span></p>
+<b>O objetivo ï¿½ passar um tempo juntos como um casal em potencial.</b> ï¿½ ver
+como vocï¿½s interagem e se envolvem, como se sentem passando algumas horas
+juntos em diferentes cenï¿½rios e situaï¿½ï¿½es. Trata-se de testar a energia de
+vocï¿½s. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br>
-Portanto, durante esse encontro no jogo de hóquei, <b>pense em diferentes
-maneiras de demonstrar que seu interesse</b> nela vai além da amizade. <o:p></o:p></span></span></p>
+Portanto, durante esse encontro no jogo de hï¿½quei, <b>pense em diferentes
+maneiras de demonstrar que seu interesse</b> nela vai alï¿½m da amizade. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12896,10 +12896,10 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Seja romântico, seja carinhoso e, acima de tudo, seja
-genuíno e acolhedor. </span></b></span><span style='mso-bookmark:_Toc534026041'><span
+mso-ansi-language:PT-BR'>Seja romï¿½ntico, seja carinhoso e, acima de tudo, seja
+genuï¿½no e acolhedor. </span></b></span><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Tenha conversas profundas (leia o capítulo anterior se
+mso-ansi-language:PT-BR'>Tenha conversas profundas (leia o capï¿½tulo anterior se
 precisar de ajuda com isso) e mantenha-se sempre focado no real objetivo do
 encontro.<o:p></o:p></span></span></p>
 
@@ -12909,8 +12909,8 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><i
 style='mso-bidi-font-style:normal'><span style='font-size:16.0pt;line-height:
-150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Aqui estão algumas
-dicas para mantê-lo fora da zona de amizade:</span></i></span><span
+150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Aqui estï¿½o algumas
+dicas para mantï¿½-lo fora da zona de amizade:</span></i></span><span
 style='mso-bookmark:_Toc534026041'><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><br>
 <br>
@@ -12938,9 +12938,9 @@ line-break'>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Não tenha medo de flertar com ela. Esse estágio de
-gracinhas e brincadeiras é importante, pois esclarece suas intenções e
-demonstra que você está interessado em ser muito mais do que um simples amigo
+mso-ansi-language:PT-BR'>Nï¿½o tenha medo de flertar com ela. Esse estï¿½gio de
+gracinhas e brincadeiras ï¿½ importante, pois esclarece suas intenï¿½ï¿½es e
+demonstra que vocï¿½ estï¿½ interessado em ser muito mais do que um simples amigo
 dela. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
@@ -12959,26 +12959,26 @@ style='mso-bookmark:_Toc534026041'><i><span style='font-size:16.0pt;line-height:
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;background:yellow;mso-highlight:yellow;
-mso-ansi-language:PT-BR'>Não seja Sutil</span></b></span><span
+mso-ansi-language:PT-BR'>Nï¿½o seja Sutil</span></b></span><span
 style='mso-bookmark:_Toc534026041'><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><br>
-Não faça jogo duro quando se sentir atraído por uma mulher. Homens acabam
-entrando na zona de amizade muitas vezes porque são muito sutis e não
+Nï¿½o faï¿½a jogo duro quando se sentir atraï¿½do por uma mulher. Homens acabam
+entrando na zona de amizade muitas vezes porque sï¿½o muito sutis e nï¿½o
 demonstram interesse suficiente. <br>
 <br>
-Se você estiver preocupado em ser muito incisivo, pense no pior cenário: que
-ela pense que você não está interessado o suficiente. Então, não tenha medo de
-demonstrar interesse. Se ela achar que você está indo muito rápido, ela dará a
+Se vocï¿½ estiver preocupado em ser muito incisivo, pense no pior cenï¿½rio: que
+ela pense que vocï¿½ nï¿½o estï¿½ interessado o suficiente. Entï¿½o, nï¿½o tenha medo de
+demonstrar interesse. Se ela achar que vocï¿½ estï¿½ indo muito rï¿½pido, ela darï¿½ a
 entender. <br>
 <br>
 </span></span><span style='mso-bookmark:_Toc534026041'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
-background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>Crie Tensão
+background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>Crie Tensï¿½o
 Sexual</span></b></span><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br>
-Como acabamos de mencionar, o flerte é importante porque demonstra interesse
-sexual, mas você também deve fazer o possível para criar tensão sexual.<o:p></o:p></span></span></p>
+Como acabamos de mencionar, o flerte ï¿½ importante porque demonstra interesse
+sexual, mas vocï¿½ tambï¿½m deve fazer o possï¿½vel para criar tensï¿½o sexual.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12986,9 +12986,9 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Você pode fazer isso de modo leve, por exemplo,
-colocando a mão no ombro ou nas costas dela enquanto a estiver conduzindo pela
-multidão. <o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'>Vocï¿½ pode fazer isso de modo leve, por exemplo,
+colocando a mï¿½o no ombro ou nas costas dela enquanto a estiver conduzindo pela
+multidï¿½o. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -12997,12 +12997,12 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'>As mulheres amam o toque possessivo de um homem no
-qual estão interessadas, porque faz com que elas se sintam especiais e
+qual estï¿½o interessadas, porque faz com que elas se sintam especiais e
 desejadas.<br>
 <br>
 </span></span><span style='mso-bookmark:_Toc534026041'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
-background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>Não Fale Mal de
+background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>Nï¿½o Fale Mal de
 Si Mesmo</span></b></span><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><o:p></o:p></span></span></p>
@@ -13010,7 +13010,7 @@ mso-ansi-language:PT-BR'><o:p></o:p></span></span></p>
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'>Homens que acabam na zona de amizade normalmente
-costumam falar mal de si mesmo para fazer graça ou simplesmente para fazer o
+costumam falar mal de si mesmo para fazer graï¿½a ou simplesmente para fazer o
 papel de humilde. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
@@ -13019,21 +13019,21 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>A verdade é que se autodepreciar constantemente não é
-algo sexy. Claro, você pode até fazer com que ela dê algumas risadas e achar
-que está sendo simpático, mas quando se trata de relacionamento, você deve
-querer que ela pense em você sexualmente, não como um comediante que ressalta
-todas as razões pelas quais ela <i>não deveria</i> se sentir atraída por você. <o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'>A verdade ï¿½ que se autodepreciar constantemente nï¿½o ï¿½
+algo sexy. Claro, vocï¿½ pode atï¿½ fazer com que ela dï¿½ algumas risadas e achar
+que estï¿½ sendo simpï¿½tico, mas quando se trata de relacionamento, vocï¿½ deve
+querer que ela pense em vocï¿½ sexualmente, nï¿½o como um comediante que ressalta
+todas as razï¿½es pelas quais ela <i>nï¿½o deveria</i> se sentir atraï¿½da por vocï¿½. <o:p></o:p></span></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 style='mso-bookmark:_Toc534026041'><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_20" o:spid="_x0000_i1042" type="#_x0000_t75" alt="Namorados desenho png 5 » PNG Image"
+ id="Imagem_x0020_20" o:spid="_x0000_i1042" type="#_x0000_t75" alt="Namorados desenho png 5 ï¿½ PNG Image"
  style='width:111pt;height:135.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image020.png"
-  o:title="Namorados desenho png 5 » PNG Image"/>
+  o:title="Namorados desenho png 5 ï¿½ PNG Image"/>
 </v:shape><![endif]--><![if !vml]><img width=148 height=181
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image021.png"
-alt="Namorados desenho png 5 » PNG Image" v:shapes="Imagem_x0020_20"><![endif]></span></span><span
+alt="Namorados desenho png 5 ï¿½ PNG Image" v:shapes="Imagem_x0020_20"><![endif]></span></span><span
 style='mso-bookmark:_Toc534026041'><span style='font-size:16.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></span></p>
 
@@ -13047,7 +13047,7 @@ mso-ansi-language:PT-BR'><o:p></o:p></span></b></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 style='mso-bookmark:_Toc534026041'><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_19" o:spid="_x0000_i1041" type="#_x0000_t75" alt="Desenho de Menino apaixonado pintado e colorido por Usuário não ..."
+ id="Imagem_x0020_19" o:spid="_x0000_i1041" type="#_x0000_t75" alt="Desenho de Menino apaixonado pintado e colorido por Usuï¿½rio nï¿½o ..."
  style='width:246pt;height:192.6pt;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQCxgme2CgEAABMCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralN2QAit3YGOIyA0HiBK3DaicaI4lO3tSbpNgokh7Rjb3+8vyXK1tSObIJBxWPPbsuIM
 UDltsK/5++apuOeMokQtR4dQ8x0QXzXXV8vNzgOxRCPVfIjRPwhBagArqXQeMHU6F6yM6Rh64aX6
@@ -13993,7 +13993,7 @@ c1BLBQYAAAAABgAGAHwBAACYzwAAAAA=
   o:title="" cropbottom="-68f"/>
 </v:shape><![endif]--><![if !vml]><img width=328 height=257
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image023.png"
-alt="Desenho de Menino apaixonado pintado e colorido por Usuário não ..."
+alt="Desenho de Menino apaixonado pintado e colorido por Usuï¿½rio nï¿½o ..."
 v:shapes="Imagem_x0020_19"><![endif]></span></span><span style='mso-bookmark:
 _Toc534026041'><b style='mso-bidi-font-weight:normal'><span style='font-size:
 20.0pt;line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></b></span></p>
@@ -14001,7 +14001,7 @@ _Toc534026041'><b style='mso-bidi-font-weight:normal'><span style='font-size:
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><br>
-Se o encontro tiver sido bom, diga que apesar de ter que ir embora, não queria
+Se o encontro tiver sido bom, diga que apesar de ter que ir embora, nï¿½o queria
 que ele terminasse. <b>Deixe-a querendo mais e sempre termine o encontro com
 uma <span class=SpellE>vibe</span> boa. <o:p></o:p></b></span></span></p>
 
@@ -14011,8 +14011,8 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'>Ter um bom timing requer experiência, então
-mantenha-se atento ao ritmo da conversa para saber como as coisas estão fluindo
+mso-ansi-language:PT-BR'>Ter um bom timing requer experiï¿½ncia, entï¿½o
+mantenha-se atento ao ritmo da conversa para saber como as coisas estï¿½o fluindo
 e para saber o momento certo de terminar o encontro. <br style='mso-special-character:
 line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
@@ -14020,7 +14020,7 @@ line-break'>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'><span style='mso-spacerun:yes'>ï¿½</span><o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -14028,7 +14028,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='mso-bookmark:_Toc534026041'><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></span></p>
+mso-ansi-language:PT-BR'><span style='mso-spacerun:yes'>ï¿½</span><o:p></o:p></span></span></p>
 
 <span style='font-size:16.0pt;font-family:"Cambria",serif;mso-fareast-font-family:
 "MS Mincho";mso-bidi-font-family:"Times New Roman";mso-ansi-language:PT-BR;
@@ -14038,11 +14038,11 @@ style='page-break-before:always'>
 
 <p class=MsoNormal align=center style='text-align:center'><a name="_Toc27085617"><b><span
 style='font-size:36.0pt;font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:
-PT-BR'>Ideias Ótimas para um Encontro</span></b></a><b><span style='font-size:
+PT-BR'>Ideias ï¿½timas para um Encontro</span></b></a><b><span style='font-size:
 36.0pt;font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
 
 <p class=p1 style='line-height:150%'><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_21" o:spid="_x0000_i1040" type="#_x0000_t75" alt="Desenho de Menino apaixonado pintado e colorido por Usuário não ..."
+ id="Imagem_x0020_21" o:spid="_x0000_i1040" type="#_x0000_t75" alt="Desenho de Menino apaixonado pintado e colorido por Usuï¿½rio nï¿½o ..."
  style='width:6in;height:281.4pt;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQCxgme2CgEAABMCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralN2QAit3YGOIyA0HiBK3DaicaI4lO3tSbpNgokh7Rjb3+8vyXK1tSObIJBxWPPbsuIM
 UDltsK/5++apuOeMokQtR4dQ8x0QXzXXV8vNzgOxRCPVfIjRPwhBagArqXQeMHU6F6yM6Rh64aX6
@@ -15859,25 +15859,25 @@ sJABAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAYABgB8AQAAo5EBAAAA
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=576 height=375
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image025.png"
-alt="Desenho de Menino apaixonado pintado e colorido por Usuário não ..."
+alt="Desenho de Menino apaixonado pintado e colorido por Usuï¿½rio nï¿½o ..."
 v:shapes="Imagem_x0020_21"><![endif]></span><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>O encontro começa com o ambiente perfeito</span></b><span
+mso-ansi-language:PT-BR'>O encontro comeï¿½a com o ambiente perfeito</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>. Se você não conseguir
-entender isso, você dificultará as coisas para você.<span
-style='mso-spacerun:yes'>  </span><br style='mso-special-character:line-break'>
+mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>. Se vocï¿½ nï¿½o conseguir
+entender isso, vocï¿½ dificultarï¿½ as coisas para vocï¿½.<span
+style='mso-spacerun:yes'>ï¿½ </span><br style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Quando se trata de escolher o ambiente certo, você
+mso-ansi-language:PT-BR'>Quando se trata de escolher o ambiente certo, vocï¿½
 precisa ter certas coisas em mente, incluindo: <br>
-<span style='mso-spacerun:yes'> </span><br>
+<span style='mso-spacerun:yes'>ï¿½</span><br>
 </span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>Um Ambiente que
@@ -15902,10 +15902,10 @@ line-break'>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Isso significa que você obviamente deve <b><span
-style='color:red'>evitar bares barulhentos com música alta, </span></b>que
-tornam impossível ouvir um ao outro. Em vez disso, <b>escolha lugares que
-estimulem a conversa e permitam que vocês relaxem e se conheçam.<br
+mso-ansi-language:PT-BR'>Isso significa que vocï¿½ obviamente deve <b><span
+style='color:red'>evitar bares barulhentos com mï¿½sica alta, </span></b>que
+tornam impossï¿½vel ouvir um ao outro. Em vez disso, <b>escolha lugares que
+estimulem a conversa e permitam que vocï¿½s relaxem e se conheï¿½am.<br
 style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]></b></span><span style='font-size:20.0pt;line-height:150%;font-family:
@@ -15914,18 +15914,18 @@ style='mso-special-character:line-break'>
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Arial;background:yellow;mso-highlight:yellow;mso-ansi-language:
-PT-BR'>Um Ambiente Acessível</span></b><b style='mso-bidi-font-weight:normal'><span
+PT-BR'>Um Ambiente Acessï¿½vel</span></b><b style='mso-bidi-font-weight:normal'><span
 style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'> </span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'><br>
-A questão não é você ter ou não dinheiro para pagar. Levá-la a restaurantes
-caros pode gerar grandes expectativas e criar situações tensas e embaraçosas. <o:p></o:p></span></p>
+A questï¿½o nï¿½o ï¿½ vocï¿½ ter ou nï¿½o dinheiro para pagar. Levï¿½-la a restaurantes
+caros pode gerar grandes expectativas e criar situaï¿½ï¿½es tensas e embaraï¿½osas. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 mso-ansi-language:PT-BR'>Em vez disso, opte por ambientes casuais para que
-vocês fiquem à vontade, livres de preocupações. <o:p></o:p></span></p>
+vocï¿½s fiquem ï¿½ vontade, livres de preocupaï¿½ï¿½es. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
@@ -15959,10 +15959,10 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Saia do previsível e faça algo divertido e
+mso-ansi-language:PT-BR'>Saia do previsï¿½vel e faï¿½a algo divertido e
 interessante.</span></b><span style='font-size:16.0pt;line-height:150%;
 font-family:"Cambria",serif;mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>
-Em vez de optar por clichês como caminhar pela praia, pense em fazer
+Em vez de optar por clichï¿½s como caminhar pela praia, pense em fazer
 caminhadas, patinar no gelo ou andar de caiaque.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -15971,8 +15971,8 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Além de demonstrar que você está se importando com o
-encontro, vocês também criarão memórias e terão histórias para contar. <o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Alï¿½m de demonstrar que vocï¿½ estï¿½ se importando com o
+encontro, vocï¿½s tambï¿½m criarï¿½o memï¿½rias e terï¿½o histï¿½rias para contar. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
@@ -15980,19 +15980,19 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Ok, agora sabemos quais são as três principais coisas
-que você deve ter em mente para escolher o ambiente perfeito para um encontro.
-Precisa de ideias? Aqui estão nossas melhores ideias para um encontro. <br>
+mso-ansi-language:PT-BR'>Ok, agora sabemos quais sï¿½o as trï¿½s principais coisas
+que vocï¿½ deve ter em mente para escolher o ambiente perfeito para um encontro.
+Precisa de ideias? Aqui estï¿½o nossas melhores ideias para um encontro. <br>
 <b style='mso-bidi-font-weight:normal'><br>
 </b></span><b style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 mso-ansi-language:PT-BR'>Museus</span></b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 mso-ansi-language:PT-BR'><br>
-Além de ser uma maneira interessantes de passar um tempo juntos, vocês terão
-muito assunto à medida que explorarem as diferentes áreas do museu. É também um
-passeio muito acessível e permite que vocês passem o tempo que quiserem juntos
-sem se sentirem pressionados.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+Alï¿½m de ser uma maneira interessantes de passar um tempo juntos, vocï¿½s terï¿½o
+muito assunto ï¿½ medida que explorarem as diferentes ï¿½reas do museu. ï¿½ tambï¿½m um
+passeio muito acessï¿½vel e permite que vocï¿½s passem o tempo que quiserem juntos
+sem se sentirem pressionados.<span style='mso-spacerun:yes'>ï¿½ </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
@@ -16004,12 +16004,12 @@ mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>Piqueniques</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'><br>
 Isso nunca sai de moda. Um piquenique <span class=GramE>bem organizado</span>
-pode ser o cenário de um encontro memorável. <o:p></o:p></span></p>
+pode ser o cenï¿½rio de um encontro memorï¿½vel. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Além disso, você pode fazer ajustes ao piquenique
-conforme seja o primeiro encontro, o terceiro ou o décimo!<o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Alï¿½m disso, vocï¿½ pode fazer ajustes ao piquenique
+conforme seja o primeiro encontro, o terceiro ou o dï¿½cimo!<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
@@ -16019,7 +16019,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 mso-ansi-language:PT-BR'>Por exemplo, mantenha um clima leve e casual caso seja
 o primeiro encontro. Se for o segundo encontro? Leve uma garrafa de vinho! Se
-vocês já tiverem mais intimidade, adicione mais elementos de romance ao
+vocï¿½s jï¿½ tiverem mais intimidade, adicione mais elementos de romance ao
 contexto. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -16028,12 +16028,12 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>Cafés</span></b><span
+mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'>Cafï¿½s</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-bidi-font-family:Arial;mso-ansi-language:PT-BR'><br>
-Não há lugar melhor para ter uma conversa real, sem distrações, do que um café
-bem casual. Não há pressão, eles geralmente são silenciosos e você pode começar
-o encontro nele e ver até onde as coisas vão. <o:p></o:p></span></p>
+Nï¿½o hï¿½ lugar melhor para ter uma conversa real, sem distraï¿½ï¿½es, do que um cafï¿½
+bem casual. Nï¿½o hï¿½ pressï¿½o, eles geralmente sï¿½o silenciosos e vocï¿½ pode comeï¿½ar
+o encontro nele e ver atï¿½ onde as coisas vï¿½o. <o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_25"
@@ -16049,7 +16049,7 @@ name="_Toc27085618"><span style='font-size:16.0pt;line-height:150%;font-family:
 
 <h1 align=center style='text-align:center'><span style='mso-bookmark:_Toc27085618'><span
 style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'>A
-Arte da Sedução</span></span><span style='font-family:"Cambria",serif;
+Arte da Seduï¿½ï¿½o</span></span><span style='font-family:"Cambria",serif;
 color:#F53DE8;mso-ansi-language:PT-BR'><o:p></o:p></span></h1>
 
 <p class=MsoNormal><span lang=X-NONE style='font-size:16.0pt;font-family:"Cambria",serif;
@@ -16057,7 +16057,7 @@ mso-ansi-language:X-NONE;mso-fareast-language:X-NONE'><o:p>&nbsp;</o:p></span></
 
 <p class=MsoNormal style='line-height:150%'><span lang=EN-US style='mso-no-proof:
 yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_26" o:spid="_x0000_i1036"
- type="#_x0000_t75" alt="10 Coisas Que Você Precisa Saber Para Manter Um Homem Apaixonado -"
+ type="#_x0000_t75" alt="10 Coisas Que Vocï¿½ Precisa Saber Para Manter Um Homem Apaixonado -"
  style='width:6in;height:253.2pt;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQCxgme2CgEAABMCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralN2QAit3YGOIyA0HiBK3DaicaI4lO3tSbpNgokh7Rjb3+8vyXK1tSObIJBxWPPbsuIM
 UDltsK/5++apuOeMokQtR4dQ8x0QXzXXV8vNzgOxRCPVfIjRPwhBagArqXQeMHU6F6yM6Rh64aX6
@@ -39294,37 +39294,37 @@ ZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABgAGAHwBAADlMhQAAAA=
   o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=576 height=338
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image032.png"
-alt="10 Coisas Que Você Precisa Saber Para Manter Um Homem Apaixonado -"
+alt="10 Coisas Que Vocï¿½ Precisa Saber Para Manter Um Homem Apaixonado -"
 v:shapes="Imagem_x0020_26"><![endif]></span><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
 mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-bidi-font-family:Arial;
-mso-ansi-language:PT-BR'>Então, nós já discutimos maneiras de permanecer longe
-da zona de amizade e analisamos a arte da conversa. Agora é hora de pensar em
-outra parte importante de qualquer romance: dominar a <b><u>arte da sedução.</u></b><o:p></o:p></span></p>
+mso-ansi-language:PT-BR'>Entï¿½o, nï¿½s jï¿½ discutimos maneiras de permanecer longe
+da zona de amizade e analisamos a arte da conversa. Agora ï¿½ hora de pensar em
+outra parte importante de qualquer romance: dominar a <b><u>arte da seduï¿½ï¿½o.</u></b><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:16.0pt;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>A sedução
-é um processo longo. Você precisará investir tempo e energia a fim de utilizar
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>A seduï¿½ï¿½o
+ï¿½ um processo longo. Vocï¿½ precisarï¿½ investir tempo e energia a fim de utilizar
 todas as habilidades do seu arsenal, incluindo: humor, sagacidade e charme.<br
 style='mso-special-character:line-break'>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Você
-também precisa estar atento, mas não pode parecer piegas ou desesperado. E, às
-vezes, você precisará “tentar até conseguir”, principalmente quando se trata de
-transmitir confiança.<br>
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Vocï¿½
+tambï¿½m precisa estar atento, mas nï¿½o pode parecer piegas ou desesperado. E, ï¿½s
+vezes, vocï¿½ precisarï¿½ ï¿½tentar atï¿½ conseguirï¿½, principalmente quando se trata de
+transmitir confianï¿½a.<br>
 <br>
-Pode ser que você ache que não é o melhor dos partidos. Pode ser que você se
-pergunte por que ela está a fim você. Você precisará aprender a superar suas
-dúvidas, porque a insegurança é um dos principais fatores que acabam com
+Pode ser que vocï¿½ ache que nï¿½o ï¿½ o melhor dos partidos. Pode ser que vocï¿½ se
+pergunte por que ela estï¿½ a fim vocï¿½. Vocï¿½ precisarï¿½ aprender a superar suas
+dï¿½vidas, porque a inseguranï¿½a ï¿½ um dos principais fatores que acabam com
 qualquer romance. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -39332,13 +39332,13 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Em vez
-disso, você precisa agir com charme e sofisticação. Você a conquistará
-facilmente quando mostrar que você não só vale a pena – mas também é totalmente
-irresistível.<o:p></o:p></span></p>
+disso, vocï¿½ precisa agir com charme e sofisticaï¿½ï¿½o. Vocï¿½ a conquistarï¿½
+facilmente quando mostrar que vocï¿½ nï¿½o sï¿½ vale a pena ï¿½ mas tambï¿½m ï¿½ totalmente
+irresistï¿½vel.<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_27"
- o:spid="_x0000_i1035" type="#_x0000_t75" alt="Desenho de dia dos namorados pintado e colorido por Usuário não ..."
+ o:spid="_x0000_i1035" type="#_x0000_t75" alt="Desenho de dia dos namorados pintado e colorido por Usuï¿½rio nï¿½o ..."
  style='width:219pt;height:171.6pt;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQCxgme2CgEAABMCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralN2QAit3YGOIyA0HiBK3DaicaI4lO3tSbpNgokh7Rjb3+8vyXK1tSObIJBxWPPbsuIM
 UDltsK/5++apuOeMokQtR4dQ8x0QXzXXV8vNzgOxRCPVfIjRPwhBagArqXQeMHU6F6yM6Rh64aX6
@@ -40934,7 +40934,7 @@ XwEAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABgAGAHwBAABtYAEAAAA=
   o:title="" cropbottom="-77f" cropleft="-150f" cropright="-180f"/>
 </v:shape><![endif]--><![if !vml]><img width=292 height=229
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image034.png"
-alt="Desenho de dia dos namorados pintado e colorido por Usuário não ..."
+alt="Desenho de dia dos namorados pintado e colorido por Usuï¿½rio nï¿½o ..."
 v:shapes="Imagem_x0020_27"><![endif]></span><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
@@ -40952,17 +40952,17 @@ mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Um homem
-bem cuidado é atraente para as mulheres. Além de demonstrar que você se cuida,
-você também <span class=GramE>estará mostrando</span> que se esforçou para
+bem cuidado ï¿½ atraente para as mulheres. Alï¿½m de demonstrar que vocï¿½ se cuida,
+vocï¿½ tambï¿½m <span class=GramE>estarï¿½ mostrando</span> que se esforï¿½ou para
 ficar bonito para ela. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Você deve
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Vocï¿½ deve
 ser inteligente na hora de se vestir e saber que tipo de roupa combina com o
-seu corpo. Não escolha nada muito extravagante. Você deve destacar sua
+seu corpo. Nï¿½o escolha nada muito extravagante. Vocï¿½ deve destacar sua
 masculinidade, sem deixar de estar na moda.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -40971,19 +40971,19 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>2:<span
-style='mso-spacerun:yes'>  </span>Devagar se Vai ao Longe</span></b><b
+style='mso-spacerun:yes'>ï¿½ </span>Devagar se Vai ao Longe</span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Quando se
-trata da arte da sedução, você precisa dedicar seu tempo à mulher dos seus
-sonhos. Vá devagar, seja atencioso e carinhoso. Uma mulher quer se sentir
+trata da arte da seduï¿½ï¿½o, vocï¿½ precisa dedicar seu tempo ï¿½ mulher dos seus
+sonhos. Vï¿½ devagar, seja atencioso e carinhoso. Uma mulher quer se sentir
 protegida e segura.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Até as
-mulheres mais independentes gostam de saber que seu homem cuidará delas.
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Atï¿½ as
+mulheres mais independentes gostam de saber que seu homem cuidarï¿½ delas.
 Portanto, se preocupe com ela e garanta que ela esteja sempre bem. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
@@ -40993,7 +40993,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></b></p>
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>3:<span
-style='mso-spacerun:yes'>  </span>Dê a ela toda sua Atenção</span></b><b
+style='mso-spacerun:yes'>ï¿½ </span>Dï¿½ a ela toda sua Atenï¿½ï¿½o</span></b><b
 style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
 
@@ -41011,11 +41011,11 @@ style='mso-bidi-font-weight:normal'><span style='font-size:20.0pt;line-height:
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;color:red;mso-ansi-language:PT-BR'>Homens
-confiantes sabem que jogar duro é coisa de amador.</span></b><span
+confiantes sabem que jogar duro ï¿½ coisa de amador.</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 color:red;mso-ansi-language:PT-BR'> </span><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Em vez
-disso, <b>dê total atenção a ela, a fim de que ela se sinta respeitada e
+disso, <b>dï¿½ total atenï¿½ï¿½o a ela, a fim de que ela se sinta respeitada e
 especial.<o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -41023,15 +41023,15 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Flerte
-com ela, seja divertido e faça com que ela se sinta como se fosse a única
+com ela, seja divertido e faï¿½a com que ela se sinta como se fosse a ï¿½nica
 mulher no mundo.</span></b><span style='font-size:16.0pt;line-height:150%;
 font-family:"Cambria",serif;mso-ansi-language:PT-BR'> Nunca, jamais preste mais
-atenção a outra mulher em um encontro.<o:p></o:p></span></p>
+atenï¿½ï¿½o a outra mulher em um encontro.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>O
-objetivo é fazê-la se sentir tão especial a ponto de que ela deixe de lado
-todas as suas possíveis inseguranças. <o:p></o:p></span></p>
+objetivo ï¿½ fazï¿½-la se sentir tï¿½o especial a ponto de que ela deixe de lado
+todas as suas possï¿½veis inseguranï¿½as. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -41040,7 +41040,7 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></b></p>
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 background:yellow;mso-highlight:yellow;mso-ansi-language:PT-BR'>4: Seja
-Romântico</span></b><b style='mso-bidi-font-weight:normal'><span
+Romï¿½ntico</span></b><b style='mso-bidi-font-weight:normal'><span
 style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
 
@@ -41063,7 +41063,7 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Planeje o
 encontro perfeito escolhendo o ambiente perfeito.</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'> <b>Supere as expectativas dela.</b> Por exemplo, se
-você for levá-la para jantar, escolha uma mesa mais reservada e peça uma
+vocï¿½ for levï¿½-la para jantar, escolha uma mesa mais reservada e peï¿½a uma
 garrafa do vinho favorito dela.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
@@ -41071,8 +41071,8 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Evite
-bares barulhentos e movimentados – opte por ambientes que permitam que vocês se
-conheçam melhor.<o:p></o:p></span></p>
+bares barulhentos e movimentados ï¿½ opte por ambientes que permitam que vocï¿½s se
+conheï¿½am melhor.<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_32"
@@ -41105,18 +41105,18 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p></o:p
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><br>
-<b>Você precisa realmente prestar atenção ao que ela está disposta a
-compartilhar com você.</b> Faça perguntas, não se atenha a conversas
-superficiais (eu sei, eu já mencionei isso, mas é algo muito importante).<o:p></o:p></span></p>
+<b>Vocï¿½ precisa realmente prestar atenï¿½ï¿½o ao que ela estï¿½ disposta a
+compartilhar com vocï¿½.</b> Faï¿½a perguntas, nï¿½o se atenha a conversas
+superficiais (eu sei, eu jï¿½ mencionei isso, mas ï¿½ algo muito importante).<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
-line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Não seja
-incisivo com relação a perguntas de âmbito pessoal até que você saiba que ela
-não teria problemas em respondê-las, mas ao mesmo tempo não tenha medo de fazer
-perguntas que permitam que você a conheça mais a fundo. <o:p></o:p></span></p>
+line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Nï¿½o seja
+incisivo com relaï¿½ï¿½o a perguntas de ï¿½mbito pessoal atï¿½ que vocï¿½ saiba que ela
+nï¿½o teria problemas em respondï¿½-las, mas ao mesmo tempo nï¿½o tenha medo de fazer
+perguntas que permitam que vocï¿½ a conheï¿½a mais a fundo. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -41142,13 +41142,13 @@ mso-ansi-language:PT-BR'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_34"
- o:spid="_x0000_i1030" type="#_x0000_t75" alt="Boobib lovely couple 2 (Indo) – Stickers LINE | LINE STORE"
+ o:spid="_x0000_i1030" type="#_x0000_t75" alt="Boobib lovely couple 2 (Indo) ï¿½ Stickers LINE | LINE STORE"
  style='width:180pt;height:180pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image042.png"
-  o:title="Boobib lovely couple 2 (Indo) – Stickers LINE | LINE STORE"/>
+  o:title="Boobib lovely couple 2 (Indo) ï¿½ Stickers LINE | LINE STORE"/>
 </v:shape><![endif]--><![if !vml]><img width=240 height=240
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image042.png"
-alt="Boobib lovely couple 2 (Indo) – Stickers LINE | LINE STORE" v:shapes="Imagem_x0020_34"><![endif]></span><span
+alt="Boobib lovely couple 2 (Indo) ï¿½ Stickers LINE | LINE STORE" v:shapes="Imagem_x0020_34"><![endif]></span><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'><o:p></o:p></span></p>
 
@@ -41160,7 +41160,7 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'>Crie
 oportunidades naturais para se aproximar dela.</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR'> Seja sentando-se mais perto dela no jantar ou
-levando-a para passear e segurando sua mão - <b><i>você deve sempre procurar
+levando-a para passear e segurando sua mï¿½o - <b><i>vocï¿½ deve sempre procurar
 oportunidades perfeitas para flertar e ser divertido.<o:p></o:p></i></b></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b><i><span style='font-size:16.0pt;
@@ -41168,13 +41168,13 @@ line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR'><o:p>&nbsp
 
 <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
 lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Imagem_x0020_35"
- o:spid="_x0000_i1029" type="#_x0000_t75" alt="Boobie Cute Couple : Love Love – Stickers LINE | LINE STORE"
+ o:spid="_x0000_i1029" type="#_x0000_t75" alt="Boobie Cute Couple : Love Love ï¿½ Stickers LINE | LINE STORE"
  style='width:151.8pt;height:151.8pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image043.png"
-  o:title=" Love Love – Stickers LINE | LINE STORE"/>
+  o:title=" Love Love ï¿½ Stickers LINE | LINE STORE"/>
 </v:shape><![endif]--><![if !vml]><img width=202 height=202
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image044.png"
-alt="Boobie Cute Couple : Love Love – Stickers LINE | LINE STORE" v:shapes="Imagem_x0020_35"><![endif]></span><a
+alt="Boobie Cute Couple : Love Love ï¿½ Stickers LINE | LINE STORE" v:shapes="Imagem_x0020_35"><![endif]></span><a
 name="_Toc528756176"></a><a name="_Toc528762356"></a><a name="_Toc528837933"></a><a
 name="_Toc531281126"></a><a name="_Toc531281223"></a><a name="_Toc531337629"></a><a
 name="_Toc534026045"></a><a name="_Toc534040129"></a><a name="_Toc2018494"></a><a
@@ -41197,7 +41197,7 @@ style='mso-bookmark:_Toc4773770'></span><span style='mso-bookmark:_Toc4928267'><
 style='mso-bookmark:_Toc4930850'></span>
 
 <h1 align=center style='text-align:center'><a name="_Toc27085619"><span
-style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'>Considerações
+style='font-family:"Cambria",serif;color:#F53DE8;mso-ansi-language:PT-BR'>Consideraï¿½ï¿½es
 Finais</span></a><span style='font-family:"Cambria",serif;color:#F53DE8;
 mso-ansi-language:PT-BR'><o:p></o:p></span></h1>
 
@@ -46726,17 +46726,17 @@ mso-fareast-language:X-NONE'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR;
-mso-fareast-language:X-NONE'>Encontrar alguém especial requer tempo e esforço.
-Você precisa se comprometer a longo prazo e entender que o amor verdadeiro
-requer muito esforço, mas tudo certamente valerá a pena no final.<br>
+mso-fareast-language:X-NONE'>Encontrar alguï¿½m especial requer tempo e esforï¿½o.
+Vocï¿½ precisa se comprometer a longo prazo e entender que o amor verdadeiro
+requer muito esforï¿½o, mas tudo certamente valerï¿½ a pena no final.<br>
 <br>
-Não se culpe por encontros fracassados. Quanto mais você tentar, mais
-experiência você vai ganhar e será mais fácil se sentir confiante e à vontade
+Nï¿½o se culpe por encontros fracassados. Quanto mais vocï¿½ tentar, mais
+experiï¿½ncia vocï¿½ vai ganhar e serï¿½ mais fï¿½cil se sentir confiante e ï¿½ vontade
 em futuros encontros.<br>
 <i><br>
 </i></span><b><i><span style='font-size:20.0pt;line-height:150%;font-family:
 "Cambria",serif;mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>A verdade
-é: quando se trata de encontros, a prática leva à perfeição.</span></i></b><b><span
+ï¿½: quando se trata de encontros, a prï¿½tica leva ï¿½ perfeiï¿½ï¿½o.</span></i></b><b><span
 style='font-size:20.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'> </span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
@@ -46756,11 +46756,11 @@ mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;color:red;mso-ansi-language:PT-BR;
-mso-fareast-language:X-NONE'>Não desista. Seja você iniciante ou não</span></b><span
+mso-fareast-language:X-NONE'>Nï¿½o desista. Seja vocï¿½ iniciante ou nï¿½o</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>, você tem tudo para se
-mostrar charmoso, atraente e inesquecível em um encontro. Acredite em seu
-potencial, pois você vale muito a pena.<o:p></o:p></span></p>
+mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>, vocï¿½ tem tudo para se
+mostrar charmoso, atraente e inesquecï¿½vel em um encontro. Acredite em seu
+potencial, pois vocï¿½ vale muito a pena.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR;
@@ -46768,15 +46768,15 @@ mso-fareast-language:X-NONE'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='line-height:150%'><b><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR;
-mso-fareast-language:X-NONE'>O segredo é prestar atenção aos sinais que ela dá</span></b><span
+mso-fareast-language:X-NONE'>O segredo ï¿½ prestar atenï¿½ï¿½o aos sinais que ela dï¿½</span></b><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>, esforçar-se para ter
-conversas profundas que levem à criação de uma conexão forte e nunca ter medo
-de demonstrar como você se sente em relação a ela. <br>
+mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>, esforï¿½ar-se para ter
+conversas profundas que levem ï¿½ criaï¿½ï¿½o de uma conexï¿½o forte e nunca ter medo
+de demonstrar como vocï¿½ se sente em relaï¿½ï¿½o a ela. <br>
 <br>
 </span><i><span style='font-size:22.0pt;line-height:150%;font-family:"Cambria",serif;
-mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>Você é capaz, cara. Agora,
-vá encontrar o amor da sua vida!</span></i><span style='font-size:16.0pt;
+mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'>Vocï¿½ ï¿½ capaz, cara. Agora,
+vï¿½ encontrar o amor da sua vida!</span></i><span style='font-size:16.0pt;
 line-height:150%;font-family:"Cambria",serif;mso-ansi-language:PT-BR;
 mso-fareast-language:X-NONE'><o:p></o:p></span></p>
 
@@ -46792,13 +46792,13 @@ alt="Milhares de Imagens Dia dos Namorados 18. Confira" v:shapes="Imagem_x0020_3
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'><br>
 </span><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Imagem_x0020_39" o:spid="_x0000_i1025" type="#_x0000_t75" alt="The end png 1 » PNG Image"
+ id="Imagem_x0020_39" o:spid="_x0000_i1025" type="#_x0000_t75" alt="The end png 1 ï¿½ PNG Image"
  style='width:166.8pt;height:90.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image050.png"
-  o:title="The end png 1 » PNG Image"/>
+  o:title="The end png 1 ï¿½ PNG Image"/>
 </v:shape><![endif]--><![if !vml]><img width=222 height=121
 src="Ebook%20PLR%20Homem%20Conquistador_arquivos/image051.png"
-alt="The end png 1 » PNG Image" v:shapes="Imagem_x0020_39"><![endif]></span><span
+alt="The end png 1 ï¿½ PNG Image" v:shapes="Imagem_x0020_39"><![endif]></span><span
 style='font-size:16.0pt;line-height:150%;font-family:"Cambria",serif;
 mso-ansi-language:PT-BR;mso-fareast-language:X-NONE'><br style='mso-special-character:
 line-break'>
